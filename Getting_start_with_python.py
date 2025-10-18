@@ -73,7 +73,7 @@ like in many other programming languages(for example , Java or C)
 written.
 -> Semicolons are optional in Python. However, we can write multiple statements on one line by separating them with semicolon (;), but
 this is rarely used because it makes the code hard to read and understand.
--> However , if we put two statements on the same line  without a semicolon, Pyhtom will give an error.
+-> However , if we put two statements on the same line  without a semicolon, Pyhton will give an error.
 """
 
 print("This is the first python statement.")
