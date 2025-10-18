@@ -16,10 +16,10 @@ prompt is the string written to standard output(usually screen) without newline 
 
 name=input("Enter your name: ")
 print(f"Hello {name}")
-print(type(name))   #Always returns the string object
+print(type(name))   #input() always returns the string object
 
 
-#Taking number as input
+#Taking Number as Input
 
 num=int(input("Enter any number: "))
 print(num)

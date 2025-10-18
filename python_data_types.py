@@ -126,7 +126,7 @@ print(type(x))
 #Setting The Specific Data Type
 
 """
--> If we want to specify the data type, we can use the following constuctor functions.
+-> If we want to specify the data type, we can use the following constructor functions.
 """
 #String
 x=str("Hello World!")
