@@ -101,7 +101,7 @@ print(a[2:])       # Get the characters from position 2, and all the way to the 
 """
 b="Hello! World"
 print(b[-5:-2])     # Get the characters from the postion -5 to the position -2(not included).
-
+print(b[::-1])      # Reverse the string
 
 #10. Useful String Methods
 """
