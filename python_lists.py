@@ -403,3 +403,13 @@ list2 = [1, 2, 3]
 
 list1.extend(list2)  #Using extend() method
 print(list1)
+
+#29. Nested List
+"""
+-> Nested List is khown as list inside a list.
+"""
+nestedList=[[1,2,3,4],["a","b","c","d"]]
+print(f"First Element of Nested List: {nestedList[0]}")
+print(f"Second Element of Nested List: {nestedList[1]}")
+print(f"First Element of First List of Nested List: {nestedList[0][0]}")
+print(f"First Element of Second List of Nested List: {nestedList[1][0]}")
