@@ -21,7 +21,8 @@ print(this_list)
 print(this_list[0])                     #First list item
 print(this_list[len(this_list)-1])      #Last list item
 
-
+this_list=[]
+print(this_list) #Empty List
 #2. List Length
 """
 -> To determine how many items a list has, we can use len() function.
