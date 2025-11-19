@@ -23,6 +23,8 @@ print(this_list[len(this_list)-1])      #Last list item
 
 this_list=[]
 print(this_list) #Empty List
+
+
 #2. List Length
 """
 -> To determine how many items a list has, we can use len() function.
@@ -74,7 +76,7 @@ print(type(mylist))
 """
 -> It is also possible to use the list() constructor when creating a new list.
 """
-thislist = list(("apple", "banana", "cherry")) # note the double round-brackets
+thislist = list(("apple", "banana", "cherry")) # Note The Double Round-Brackets
 print(thislist)
 
 
