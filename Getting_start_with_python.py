@@ -14,6 +14,7 @@ print('Hello, World!')
 -> Python uses indentation to indicate a block of code.
 -> We can use spaces or tabs for identation, but we must use the same amount of identation for all statements within the same code block.
 -> Where in other programming languages the indentation in the code is for readability only, the identation in python is very important.
+-> Other programming languages often use curly-brackets for this purpose.
 """
 #With Identation
 if 5>2:

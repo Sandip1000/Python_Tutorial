@@ -14,3 +14,25 @@ if b > a:
 number = 15
 if number > 0:     #Checking If A Number Is Positive
   print("The number is positive")
+
+
+#2. Multiple Statements In If Block
+"""
+-> We can have multiple statements inside an if block.
+-> All statements must be identated at the same level.
+"""
+
+age = 20
+if age >= 18:
+  print("You are an adult")
+  print("You can vote")
+  print("You have full legal rights")
+
+
+#3. Using Variables In Conditions
+"""
+-> Boolean variables can be used directly in if statements without comparison operators.
+"""
+is_logged_in = True
+if is_logged_in:
+  print("Welcome back!")
